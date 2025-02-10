@@ -1,0 +1,31 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root, body, html{
+
+    min-height: 100vh;
+}
+
+::-webkit-scrollbar{
+
+    background-color: aliceblue;
+}
+
+::-webkit-scrollbar-thumb{
+
+    color: aqua;
+}
+
+::-webkit-scrollbar-track{
+
+    color: aqua;
+}
+
+::-webkit-scrollbar-track{
+
+    color: aqua;
+}
